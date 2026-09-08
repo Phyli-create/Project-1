@@ -1,0 +1,5 @@
+com\mycompany\hospitalsystem\Inpatient.class
+com\mycompany\hospitalsystem\HospitalSystem.class
+com\mycompany\hospitalsystem\Patient.class
+com\mycompany\hospitalsystem\PatientCategory.class
+com\mycompany\hospitalsystem\PatientManager.class
